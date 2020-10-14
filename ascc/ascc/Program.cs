@@ -10,7 +10,7 @@ namespace ascc
     {
         static void Main(string[] args)
         {
-            Console.Write("hello ii cudat ");
+            Console.Write("hello ii ciudat ");
         }
     }
 }
